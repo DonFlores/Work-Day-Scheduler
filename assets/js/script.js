@@ -13,6 +13,7 @@ $(document).ready(function(){
         var now = moment().hours()
         $(".time-block").each(function(){
             var block = parseInt($(this).attr("id").split("-")[1])
+            console.log(block)
             if (block < now){
                 $(this).addClass("past")
             } else if(block === now){
