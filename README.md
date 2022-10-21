@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 
-[Deployed Link Here]
+[Deployed Link Here](https://donflores.github.io/Work-Day-Scheduler/)
 
 ## Description
 
@@ -24,4 +24,4 @@ A simple calendar app for scheduling your work day.
 
 The following image shows the websites current state.
 
-![Website functional]
+![Website functional](./assets/images/Work-Day-Scheduler.png)
